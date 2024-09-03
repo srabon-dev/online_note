@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726262962503",
+    "project_id": "online-note-2b99b",
+    "storage_bucket": "online-note-2b99b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726262962503:android:7af11035af9d3cc2551462",
+        "android_client_info": {
+          "package_name": "com.online.note.online_note"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD3HFea1IjxUUJ5iaIcwXivrwqO-rvp6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
